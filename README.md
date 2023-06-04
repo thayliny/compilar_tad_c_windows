@@ -9,5 +9,5 @@ ls (listagem de arquivos)
 gcc - c ( aquivo .c que deve ser execulado) arquivo.c  >> turma.o >> se torna um arquivo execultavel 
 o arquivo .c  possui em sua referencia o arquivo .h não sendo necessário a execulção do arquivo .h
 
-gcc main.c arquivo.o -o
+gcc main.c arquivo.o -o main
 ./main
